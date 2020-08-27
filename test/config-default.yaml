@@ -1,0 +1,4 @@
+tarraform_azure_modules:
+  vnet_module_dir: "../azure/terraform-azurerm-vnet"
+tarraform_aws_modules:
+  vpc_module_dir: "../aws/terraform-aws-vpc"
